@@ -1,7 +1,5 @@
-StringHelp---Javascript
+StringHelper---Javascript
 =======================
-
-StringHelp - Javascript
 
 ###### Add the string hash function ######
 
